@@ -40,6 +40,10 @@ img {
     margin: 0 auto 20px auto;
 }
 
+p {
+    text-align: center;
+}
+
 #skills {
     display: flex;
     flex-direction: column;
